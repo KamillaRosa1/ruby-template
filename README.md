@@ -12,7 +12,7 @@ Este repositório serve como **template base para projetos Ruby** com RuboCop co
 
 ## Requisitos
 
-- Ruby ≥ 3.2
+- Ruby 3.3
 - Bundler instalado (gem install bundler)
 - VS Code com extensões:
     - Ruby LSP (Shopify)
