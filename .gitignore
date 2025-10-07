@@ -1,0 +1,22 @@
+# Arquivos Ruby e Bundler
+*.gem
+*.rbc
+.bundle/
+vendor/
+log/
+tmp/
+pkg/
+coverage/
+spec/reports/
+test/tmp/
+test/version_tmp/
+.ruby-version
+.ruby-gemset
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
